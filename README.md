@@ -1,2 +1,3 @@
-# MicroservicesSample
-Net Core Microservices Sample
+# Net Core Microservices Sample
+
+SOON
