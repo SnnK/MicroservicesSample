@@ -1,3 +1,3 @@
-# Net Core Microservices Sample
+# Sample Microservices Application
 
 SOON
